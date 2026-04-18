@@ -1,4 +1,4 @@
-# Workshop GitHub Collaboration - HARUSNYA CONFLICT
+# Workshop GitHub Collaboration - CONFLICT SOLVE
 
 Workshop ini dirancang untuk mengajarkan best practices dalam berkolaborasi menggunakan GitHub. Peserta akan mempelajari:
 
